@@ -161,3 +161,4 @@ infection
 vendor
 .phpunit.cache
 .phpunit.result.cache
+.idea
