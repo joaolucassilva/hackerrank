@@ -25,6 +25,7 @@
   },
   "scripts": {
     "test": "vendor/bin/phpunit",
+    "test-coverage": "vendor/bin/phpunit --coverage-html html",
     "infection": "vendor/bin/infection",
     "php-stan": "vendor/bin/phpstan --level=9 analyse src tests"
   }
